@@ -27,4 +27,4 @@ If you want change your wallpaper whenever windows starts up
 => this will make the wallpaper_changer.exe application run everytime windows startsup
 
 
-- report any anamolies here in comment or @email = rohitathithya@gmail.com
+## report any anamolies here in comment or @email = rohitathithya@gmail.com
